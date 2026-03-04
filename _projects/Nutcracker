@@ -12,7 +12,23 @@ A moment balence will be completed at a chosen origin of analysis then the ratio
 
 Using the joint as the origin, 
 
+Sum of the moments = l1 x Fi - l2 x Fn = 0 (assume static equilibrium) 
+
+l1/l2 = Fn/Fi
+= 228.18 kg/40 kg = 5.55
+
+This is the cooresponding similar triangle ration
+
+H1 = 5.55H2
+H1 = 5.55(2 cm) 
+H1 = 11.11 cm
+
+Since the nut is 2 cm, let the legnth l2 be 4cm so l1 is 4 cm (5.55) = 22.22 cm
+
 
 Diagram: ![Image of Nutcracker FBD](/assets/images/NutFBD.png)
 
-Discussion 
+
+Discussion: 
+The nutcracker will therefore be 11 cm tall and 22 cm long in the open position. This system is HUGE and would be hard for the user to be able to use. 
+Therefore future disucssion would likeley require smaller parameters in order to create an effective nutcracker. 

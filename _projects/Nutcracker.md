@@ -16,9 +16,7 @@ $\sum \mathbf{M} = \mathbf{l}_1 \times \mathbf{F}_i - \mathbf{l}_2 \times \mathb
 
 (assume static equilibrium) 
 
-$$
-\frac{|\mathbf{l}_1|}{|\mathbf{l}_2|} = \frac{|\mathbf{F}_n|}{|\mathbf{F}_i|}
-$$
+$\frac{|\mathbf{l}_1|}{|\mathbf{l}_2|} = \frac{|\mathbf{F}_n|}{|\mathbf{F}_i|}$
 = 228.18 kg/40 kg = 5.55
 
 This is the cooresponding similar triangle ration

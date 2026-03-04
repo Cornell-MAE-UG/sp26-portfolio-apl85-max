@@ -12,7 +12,7 @@ A moment balence will be completed at a chosen origin of analysis then the ratio
 
 Using the joint as the origin, 
 
-Sum of the moments = l1 x Fi - l2 x Fn = 0 (assume static equilibrium) 
+$\sum moments = l1 x Fi - l2 x Fn = 0 (assume static equilibrium) 
 
 l1/l2 = Fn/Fi
 = 228.18 kg/40 kg = 5.55

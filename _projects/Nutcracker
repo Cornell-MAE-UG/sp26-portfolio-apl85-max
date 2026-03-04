@@ -1,1 +1,18 @@
+Problem Statement: 
+Find the necissary dimensions of a nutcracker when the nutcracker is about to crack. 
 
+Constraints and Input parameters: 
+From the literature provided in the assignment, the average load required to crack a nut is 222.18 kg. 
+The average grip stregnth for a man is 50 kg and a woman 30 kg so the average value of 40 kg will be applied here. 
+The size of a nut is between 1 and 3 cm so 2 cm is a good approximation. 
+
+Problem Approach 
+In order to implement finding the design parameters needed, a free body diagram will first be constructred. 
+A moment balence will be completed at a chosen origin of analysis then the ratio of legnths and height will be determined to get the final values.
+
+Diagram 
+
+
+
+
+Discussion 

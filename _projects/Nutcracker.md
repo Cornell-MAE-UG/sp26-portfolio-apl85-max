@@ -12,7 +12,7 @@ A moment balence will be completed at a chosen origin of analysis then the ratio
 
 Using the joint as the origin, 
 
-$\sum M = l_1 F_i - l_2 F_n = 0$
+$\sum M = l_1 x F_i - l_2 x F_n = 0$
 
 sum M = l1 x Fi - l2 x Fn = 0 (assume static equilibrium) 
 

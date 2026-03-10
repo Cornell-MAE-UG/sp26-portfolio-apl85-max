@@ -25,7 +25,7 @@ $\sum \mathbf{M} = \mathbf{l}_1 \times \mathbf{F}_i - \mathbf{l}_2 \times \mathb
 
 (assume static equilibrium) 
 
-$\frac{|\mathbf{l}_1|}{|\mathbf{l}_2|} = \frac{|\mathbf{F}_n|}{|\mathbf{F}_i|} = 222.18\text{ kg} / 40\text{ kg} = 5.55$
+$$\frac{|\mathbf{l}_1|}{|\mathbf{l}_2|} = \frac{|\mathbf{F}_n|}{|\mathbf{F}_i|}$$ = 222.18 kg / 40 kg = 5.55
 
 This is the cooresponding similar triangle ration
 
@@ -34,9 +34,6 @@ H1 = 5.55(2 cm)
 H1 = 11.11 cm
 
 Since the nut is 2 cm, let the legnth l2 be 4cm so l1 is 4 cm (5.55) = 22.22 cm
-
-
-Diagram: ![Image of Nutcracker FBD](/assets/images/NutFBD.png)
 
 
 Discussion: 

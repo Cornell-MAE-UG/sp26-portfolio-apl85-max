@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker
 description: ENGRD 2020 Nutcracker
 technologies: N/A
-image: /assets/images/Nutcracker_FBD.png
+image: /assets/images/NutFBD.png
 ---
 
 
